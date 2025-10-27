@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+> 🃏 **Connect Four joke:** Why did the Connect Four player bring a piece of string to the match? In case they needed to *tie* the game!
+
 ## Available Scripts
 
 In the project directory, you can run:
