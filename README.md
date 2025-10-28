@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## A Quick Laugh
+
+Why did the Connect 4 player bring a ladder to the game? Because they wanted to take their strategy to the next level!
+
 ## Available Scripts
 
 In the project directory, you can run:
