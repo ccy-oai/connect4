@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Quick Laugh
+
+Why did the Connect Four player bring a piece of string to the game? So they could tie up all the loose ends in their vertical strategy.
+
 ## Available Scripts
 
 In the project directory, you can run:
