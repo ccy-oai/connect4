@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+## Serious Note
+
+While this project was initially spun up from Create React App for experimentation, please remember that any changes pushed to this repository are expected to meet production-quality standards. Double-check your code, include relevant tests, and avoid committing placeholder work—treat every contribution as if it were shipping to real users.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
